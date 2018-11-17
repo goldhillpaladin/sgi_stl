@@ -9,6 +9,8 @@
 #include <string>
 #include <vector>
 
+// aaa
+
 using namespace std;
 class INT {
 	friend ostream& operator<<(ostream& os, const INT& i);
